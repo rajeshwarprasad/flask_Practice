@@ -1,6 +1,6 @@
 # Student Registration System
 
-A simple **Flask** web application to manage student records with **MongoDB** as the backend database. Users can **add, view, update, and delete** student details. The project uses **Flask-PyMongo** for database integration and **Bootstrap 5** for styling.
+A simple **Flask** web application to manage student records with **MongoDB** as the backend database. Users can **add, view, update, and delete** student details.
 
 ---
 
@@ -128,5 +128,6 @@ Form pre-filled with student details.
 MIT License
 
 ---
+
 
 
