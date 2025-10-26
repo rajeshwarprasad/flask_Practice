@@ -73,7 +73,7 @@ SECRET_KEY=<your-secret-key>
 python app.py
 ```
 
-Open your browser at: [http://localhost:8000](http://localhost:8000)
+Open your browser at: [http://localhost:5000](http://localhost:5000)
 
 ---
 
@@ -128,6 +128,7 @@ Form pre-filled with student details.
 MIT License
 
 ---
+
 
 
 
